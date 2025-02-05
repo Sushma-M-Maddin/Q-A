@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is Docker?",
+    "answer": "Docker is an open-source platform used for automating the deployment, scaling, and management of applications in containers."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for its readability and versatility."
+  }
+]
